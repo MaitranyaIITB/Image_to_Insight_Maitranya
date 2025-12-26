@@ -1,0 +1,14 @@
+Assignment 2.1 & 2.2 OCR Extraction Results
+
+Image: meme1.png
+Extracted Text: Going to LHC Sleeping in bed Made with Pinata Farms
+Confidence: High (Avg > 0.90)
+
+Image: meme2.png
+Extracted Text: [REJECTED - Confidence below 0.5]
+Reason: Image noise and stylized font resulted in scores of 0.15 and 0.24.
+
+Image: meme3.png
+Extracted Text: tHaTs A gReAt IdEa 2
+Confidence: Mixed (0.73 - 0.95)
+Note: Random symbols (@, }, )) were successfully filtered out.
